@@ -1,6 +1,6 @@
 // To use keys to play notes
-const WHITE_KEYS = ['z', 'x', 'c', 'v', 'b', 'n', 'm'];
-const BLACK_KEYS = ['s', 'd', 'g', 'h', 'j'];
+const WHITE_KEYS = ['s', 'd', 'f', 'h', 'j', 'k', 'l'];
+const BLACK_KEYS = ['e', 'r', 'y', 'u', 'r'];
 
 const whiteKeys = document.querySelectorAll('.key.white');
 const blackKeys = document.querySelectorAll('.key.black');

@@ -39,9 +39,9 @@ body {
   z-index: 2;
 }
 .white.active {
-  background-color: #ccc;
+  background-color: #d8b1d0;
 }
 
 .black.active {
-  background-color: #333;
+  background-color: #101c36;
 }
